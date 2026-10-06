@@ -1,0 +1,83 @@
+src/predict.py
+  s_18d6e8632aca02::t_0c278404d49fc1 2-5,7-40
+  s_18d6e8632aca02::t_f1437e9fb9c0f9 1
+  s_18d6e8632aca02::t_a07206379649f6 6
+  s_18d6e8632aca02::t_9ba4f134668e1e 41-43
+requirements.txt
+  s_18d6e8632aca02::t_aa7591c6056f5b 5-11
+  s_18d6e8632aca02::t_0583a386b4cefa 2-4
+  s_18d6e8632aca02::t_becd5a967c62e4 12-14
+src/map_reader.py
+  s_18d6e8632aca02::t_4eb7593af86f54 2-191
+  s_18d6e8632aca02::t_c0fc25e66b6da5 1
+  s_18d6e8632aca02::t_c2784cbf843984 192-194
+src/validate.py
+  s_18d6e8632aca02::t_a74b84e5ef4e1b 2-187
+  s_18d6e8632aca02::t_9211085195e793 1
+  s_18d6e8632aca02::t_46173e7c705348 188-190
+.gitignore
+  s_18d6e8632aca02::t_550a25e4e888fb 1
+src/data_loader.py
+  s_18d6e8632aca02::t_928071c1278a4d 29
+  s_18d6e8632aca02::t_cb549b5608153f 47
+  s_18d6e8632aca02::t_baa72b5ddbd0c1 341
+  s_18d6e8632aca02::t_82434a73e4f42e 2-19,34-46,48-54,57-338,356-453
+  s_18d6e8632aca02::t_913cf348362b36 55
+  s_18d6e8632aca02::t_2a8ca26e718b49 1
+  s_18d6e8632aca02::t_632a8c36e84b20 20-22,26-28
+  s_18d6e8632aca02::t_cef18db6005683 30-33
+  s_18d6e8632aca02::t_7cc520b2b5ff84 56
+  s_18d6e8632aca02::t_94ead72c8d8b8f 339-340
+  s_18d6e8632aca02::t_ae288a73948c5c 342-344,353-355
+  s_18d6e8632aca02::t_c2dc845634ccd9 454-456
+hpc/meluxina.sh
+  s_18d6e8632aca02::t_15010c7781c9cd 28-32,40
+  s_18d6e8632aca02::t_4ae7a98a9cbd9e 24
+  s_18d6e8632aca02::t_d0fa2c1e91745a 36
+  s_18d6e8632aca02::t_79ee0a19b86499 21-23
+  s_18d6e8632aca02::t_a93f9b7d2ad18e 25-27
+  s_18d6e8632aca02::t_31513ecce451b0 33-35
+  s_18d6e8632aca02::t_feae192118020d 37-39
+  s_18d6e8632aca02::t_c1bce8393d2ec1 41
+src/train.py
+  s_18d6e8632aca02::t_6b3917e4910c1e 212
+  s_18d6e8632aca02::t_9d5f12a23096c9 2-11,13-14,30-180
+  s_18d6e8632aca02::t_02b0e622a6aa4a 22
+  s_18d6e8632aca02::t_409dc0fc83ec70 15-20
+  s_18d6e8632aca02::t_1d9c9a389e0462 1
+  s_18d6e8632aca02::t_58702d3d8a70eb 12
+  s_18d6e8632aca02::t_39e95b068ab2b8 21
+  s_18d6e8632aca02::t_b03adac121e798 23-25,27-29
+  s_18d6e8632aca02::t_737b07a2427bb8 181-183,209-211
+  s_18d6e8632aca02::t_df26601ef6a531 213-215
+README.md
+  s_18d6e8632aca02::t_c30165bd3efd4f 5-10,12,15-51
+  s_18d6e8632aca02::t_801ff1397b0182 2-4
+  s_18d6e8632aca02::t_b4e3ebf4c3ebb7 11
+  s_18d6e8632aca02::t_aa60007eb17371 13-14
+  s_18d6e8632aca02::t_b1d6baa950119f 52-54
+hpc/meluxina_validate.sh
+  s_18d6e8632aca02::t_91bf2dfb22a399 25-37
+  s_18d6e8632aca02::t_f1e62f8d62c364 22-24
+src/model.py
+  s_18d6e8632aca02::t_936cd92e8096a9 2-100,102-106
+  s_18d6e8632aca02::t_30ef7c48f55f80 1
+  s_18d6e8632aca02::t_37b228b8e46f14 101
+  s_18d6e8632aca02::t_20f94a6ca1622f 107-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "126e278641159195709e37b998101c9cab208e4f",
+  "prompts": {},
+  "sessions": {
+    "s_18d6e8632aca02": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_eeebb8e99ffeSlZy2Ulampt5E2",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Richard ALBRECHT <richard.albrecht@uni.lu>"
+    }
+  }
+}
